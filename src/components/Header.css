@@ -1,0 +1,67 @@
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 12px 30px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.logo {
+  height: 60px;
+  object-fit: contain;
+  margin-right: 20px;
+}
+
+.nav-menu {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-menu a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.nav-menu a:hover {
+  color: #0072ff;
+}
+
+.quote-btn {
+  background: linear-gradient(to right, #00c6ff, #0072ff);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  margin-left: 20px;
+  transition: transform 0.3s, background 0.3s;
+}
+
+.quote-btn:hover {
+  background: #0059d4;
+  transform: scale(1.05);
+}
+
+.hamburger {
+  display: none;
+  font-size: 24px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+@media (max-width: 768px) {
+  .nav-menu,
+  .quote-btn {
+    display: none;
+  }
+  .hamburger {
+    display: block;
+  }
+}
