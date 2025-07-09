@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nikuweb-portfolio/static/css/main.40288083.css",
-    "main.js": "/nikuweb-portfolio/static/js/main.f475646b.js",
+    "main.js": "/nikuweb-portfolio/static/js/main.a8c39dbf.js",
     "static/js/453.cfe77258.chunk.js": "/nikuweb-portfolio/static/js/453.cfe77258.chunk.js",
     "static/media/seo.png": "/nikuweb-portfolio/static/media/seo.3de62baa89756ecb1327.png",
     "static/media/project1.png": "/nikuweb-portfolio/static/media/project1.dec04e54e3ae77e6eacf.png",
@@ -13,11 +13,11 @@
     "static/media/branding.png": "/nikuweb-portfolio/static/media/branding.6acde1e88874e5133349.png",
     "index.html": "/nikuweb-portfolio/index.html",
     "main.40288083.css.map": "/nikuweb-portfolio/static/css/main.40288083.css.map",
-    "main.f475646b.js.map": "/nikuweb-portfolio/static/js/main.f475646b.js.map",
+    "main.a8c39dbf.js.map": "/nikuweb-portfolio/static/js/main.a8c39dbf.js.map",
     "453.cfe77258.chunk.js.map": "/nikuweb-portfolio/static/js/453.cfe77258.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40288083.css",
-    "static/js/main.f475646b.js"
+    "static/js/main.a8c39dbf.js"
   ]
 }
